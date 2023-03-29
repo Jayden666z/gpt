@@ -1,7 +1,7 @@
 # 5分钟搭建属于自己的ChatGPT聊天对话系统
 
 ## 效果展示
-![image](https://github.com/Jayden666z/gpt/blob/main/IMG_2107.GIF)
+![image](https://i.328888.xyz/2023/03/29/ikl9oU.gif)
 
 体验网址：[https://gptgo.top](https://gptgo.top)
 
