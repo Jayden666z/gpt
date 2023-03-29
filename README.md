@@ -20,13 +20,12 @@
 
 1. 安装docker
 ```shell 
-cd chat 
-df sdf 
+docker version > /dev/null || curl -fsSL get.docker.com | bash
+service docker restart
 ```
 2. 一键部署
 ```shell 
 cd chat 
-df sdf 
 ```
 
->sdf 
+
