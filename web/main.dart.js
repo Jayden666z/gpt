@@ -7654,7 +7654,7 @@ else return new A.q3(9999,"\u672a\u77e5\u5f02\u5e38")},
 q3:function q3(a,b){this.a=a
 this.b=b},
 ay4(a){var s,r,q,p="application/json; charset=utf-8"
-if($.a0C==null){s=A.awc("https://gptgo.top/",5e4,p,5e4,5e4,new A.a0D())
+if($.a0C==null){s=A.awc("http://127.0.0.1/",5e4,p,5e4,5e4,new A.a0D())
 r=new A.G8(A.b([],t.lC),new A.w4(),new A.w4(),new A.w4())
 q=new A.W7($,r,$,new A.VW(),!1)
 q.BE$=s
@@ -7717,7 +7717,7 @@ iz:function iz(a,b){this.a=a
 this.b=b},
 azS(a,b,c,d,e,f,g){var s={}
 s.a=b
-A.oI().$1("request url ==============> https://gptgo.top/"+b)
+A.oI().$1("request url ==============> http://127.0.0.1/"+b)
 A.oI().$1("request body ==============> "+c.k(0))
 c.U(0,new A.a5l(s))
 A.G_(a,s.a,c,new A.a5m(!1,e),!0,new A.a5n(!1,g))},
